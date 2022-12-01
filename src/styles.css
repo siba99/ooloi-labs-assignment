@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.fa-solid{
+  margin-left: 4px;
+}
+th{
+  cursor: pointer;
+}
+
+#dataTabla tbody:nth-child(even){
+  background-color: #f2f2f2;
+}
+
+#dataTabla tbody:hover {
+  background-color: #ddd;
+}
+a{
+  text-decoration:none;
+  cursor: pointer;
+}
